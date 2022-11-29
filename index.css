@@ -1,0 +1,35 @@
+.first-div{
+    background-color: rgb(27, 20, 219);
+    flex-direction: column;
+    height: 90px;
+}
+.name{
+    /* background-color: rgb(88, 84, 77); */
+   color: white;
+   text-align: center;
+}
+.first-div-name{
+    /* background-color: aqua; */
+   
+}
+.nevigation{
+    display: flex;
+    margin: 22px;
+    padding: 2px;
+    flex-direction: row;
+    justify-content: center;
+    margin-right: 22px;
+    
+}
+.anchor{
+    margin-right: 5px;
+    color: brown;
+    text-decoration: none;
+}
+.about-name{
+    text-align: center;
+}
+.img{
+    width: 250px;
+    height:250px;
+}
